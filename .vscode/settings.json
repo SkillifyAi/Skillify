@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/14a47af4-82e9-4100-9b7e-684a3d664a3b/resourceGroups/SkillifyServiceQS-rg/providers/Microsoft.Web/sites/SkillifyAi",
+    "appService.deploySubpath": "."
+}
